@@ -5,3 +5,5 @@ Repositório criado para treinar os comando de ADD, COMMIT e PUSH.
 Linha adicionada para testar erro de PUSH por merge.
 
 Mais uma linha adicionada, agora para testar a criação de branch. 
+
+Mais uma pra teste.
